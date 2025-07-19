@@ -2,7 +2,7 @@
 
 # 🏊 BLACKTEMPLE EXE for WINDOWS v1.0.0
 
-[![Download](img/dwandroid.png)](https://github.com/BLACKTEMPLE-SPACE/blacktemple_app/releases))
+[![Download](Thumbnail.png)](https://github.com/BLACKTEMPLE-SPACE/blacktemple_app/releases))
 
 
 Dear friends, colleagues, and lovely humans — we appreciate and value each of you!
