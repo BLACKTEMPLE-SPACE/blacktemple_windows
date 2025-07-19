@@ -2,7 +2,7 @@
 
 # 🏊 BLACKTEMPLE EXE for WINDOWS v1.0.0
 
-[![Download](image 1-2.png)](https://github.com/BLACKTEMPLE-SPACE/blacktemple_app/releases))
+[![Download](image_1-2.png)](https://github.com/BLACKTEMPLE-SPACE/blacktemple_windows/releases/)
 
 
 Dear friends, colleagues, and lovely humans — we appreciate and value each of you!
