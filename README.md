@@ -1,6 +1,6 @@
 ![App Screenshot](Thumbnail.png)
 
-# 🏊 BLACKTEMPLE EXE for WINDOWS v1.0.0
+# 🏊 BLACKTEMPLE EXE for WINDOWS v1.3.0
 
 [![Download](./image%201-2.png)](https://github.com/BLACKTEMPLE-SPACE/blacktemple_windows/releases/)
 
